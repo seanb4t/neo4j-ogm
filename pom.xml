@@ -30,7 +30,7 @@
         <neo4j>2.2.5</neo4j>
         <neo4j-io>2.2.5</neo4j-io>
         <commonslang>2.6</commonslang>
-        <jackson>2.5.1</jackson>
+        <jackson>2.12.7.1</jackson>
         <httpclient>4.3.6</httpclient>
         <junit>4.12</junit>
         <slf4j>1.7.5</slf4j>
